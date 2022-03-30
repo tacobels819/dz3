@@ -1,0 +1,4 @@
+C:\Users\tacob\source\repos\dz3\Avtoriz\bin\Debug\Avtoriz.dll
+C:\Users\tacob\source\repos\dz3\Avtoriz\bin\Debug\Avtoriz.pdb
+C:\Users\tacob\source\repos\dz3\Avtoriz\obj\Debug\Avtoriz.dll
+C:\Users\tacob\source\repos\dz3\Avtoriz\obj\Debug\Avtoriz.pdb
